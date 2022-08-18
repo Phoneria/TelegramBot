@@ -9,7 +9,8 @@ import requests
 
 
 def message(bot_mesaj):
-    id_list = ["1598072365"]
+    my_id = "1111111111"
+    id_list = [my_id]
  
  
     for i in id_list:
